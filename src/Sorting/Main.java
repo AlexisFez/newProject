@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         int[] dataSrc = {0, 3, 3, 5, 6, 7, 12, 13, 22};
 
-        int[] dataDest = {0, 0, 4, 9, 10, 17, 22, 113, 150};
+//        int[] dataDest = {0, 0, 4, 9, 10, 17, 22, 113, 150};
 
         int temp;
 
